@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="no" ?>
+<?xml-stylesheet type="text/xsl" href="books3.xsl"?>
+
+<books>
+	<book>
+		<title>lager Than 30</title>
+		<noOfAuthors>2</noOfAuthors>
+		<publisher>ascascasc</publisher>
+		<publicationYear>2001</publicationYear>
+		<price>40</price>
+		<author>dscsdcsd<author>
+	</book>
+	<book>
+		<title>asdasdasd</title>
+		<noOfAuthors>1</noOfAuthors>
+		<publisher>sacascas</publisher>
+		<publicationYear>2003</publicationYear>
+		<price>5</price>
+		<author>dsdsdvds<author>
+	</book>
+	<book>
+		<title>qwdqwdqwd</title>
+		<noOfAuthors>3</noOfAuthors>
+		<publisher>sdfbg</publisher>
+		<publicationYear>2004</publicationYear>
+		<price>3</price>
+		<author>ffffffff<author>
+	</book>
+	<book>
+		<title>dsdvsdvdsv</title>
+		<noOfAuthors>1</noOfAuthors>
+		<publisher>zvxzxvzxv</publisher>
+		<publicationYear>fdfdf</publicationYear>
+		<price>sdsdvsdv</price>
+		<author>ddddddd<author>
+	</book>
+</books>
